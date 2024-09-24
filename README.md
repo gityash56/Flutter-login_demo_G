@@ -1,6 +1,9 @@
 # login_demo
 
-A new Flutter project.
+## Login , Signup , splash screen , dashboard in show user login details , sharedpreference , setState , custome widgets , validations.
+
+
+# A new Flutter project.
 
 ## Getting Started
 
